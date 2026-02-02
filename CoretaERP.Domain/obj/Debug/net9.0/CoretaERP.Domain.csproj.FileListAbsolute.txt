@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\bin\Debug\net9.0\CoretaERP.Domain.deps.json
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\bin\Debug\net9.0\CoretaERP.Domain.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\bin\Debug\net9.0\CoretaERP.Domain.pdb
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\refint\CoretaERP.Domain.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\CoretaERP.Domain.pdb
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Domain\obj\Debug\net9.0\ref\CoretaERP.Domain.dll
