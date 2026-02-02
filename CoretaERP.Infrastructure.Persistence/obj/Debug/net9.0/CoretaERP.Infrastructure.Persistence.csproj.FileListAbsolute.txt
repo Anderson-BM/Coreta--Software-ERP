@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\bin\Debug\net9.0\CoretaERP.Infrastructure.Persistence.deps.json
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\bin\Debug\net9.0\CoretaERP.Infrastructure.Persistence.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\bin\Debug\net9.0\CoretaERP.Infrastructure.Persistence.pdb
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\refint\CoretaERP.Infrastructure.Persistence.dll
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\CoretaERP.Infrastructure.Persistence.pdb
+C:\Users\User\Desktop\CoretaERP\CoretaERP\CoretaERP.Infrastructure.Persistence\obj\Debug\net9.0\ref\CoretaERP.Infrastructure.Persistence.dll
